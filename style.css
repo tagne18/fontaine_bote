@@ -1,0 +1,31 @@
+
+.carousel-inner img{
+    height: 30rem;
+    width: 100rem;
+
+}
+.container-fluid h1{
+    text-align: center;
+    color:black;
+    /* background-color: blueviolet; */
+}
+.card{
+    margin-left: 3rem;
+border-radius: 3rem;  
+}
+.card img{
+   border-radius: 1.5rem;
+    transition: 0.2s ease-in;
+    cursor: pointer;
+    transition: 0.5 ;
+}
+.card button{
+    text-align: center;
+}
+.image-cercle img{
+    border-radius: 20rem;
+    height: 10rem;
+    width: 8rem;
+    margin-left: 6rem;
+   
+}
